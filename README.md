@@ -59,45 +59,45 @@ Os dados ficam em listas do **SharePoint Online (Microsoft Lists)**, e o login �
 
 ### Pesquisar soluções
 
-![Pesquisa de soluções](screenshots/pesquisa.png)
+<img width="1032" height="920" alt="pesquisa_de_soluções" src="https://github.com/user-attachments/assets/c36f267e-15d7-4fbc-ae2a-21bdf234fbc6" />
 
 ### Registrar solução
 
-![Registro de nova solução](screenshots/registrar-solucao.png)
+<img width="1035" height="1015" alt="registrar_solução" src="https://github.com/user-attachments/assets/f2c63b60-7a59-4c76-b355-662b243bde1a" />
 
 ### Navegação orientada
 
-![Trilhas da navegação orientada](screenshots/navegacao-orientada.png)
+<img width="1032" height="635" alt="navegação_orientada" src="https://github.com/user-attachments/assets/1b25e022-e088-45b2-8558-e9ad6f0a4b7d" />
 
 ### Respostas padronizadas
 
-![Modelos de respostas padronizadas](screenshots/respostas-padronizadas.png)
+<img width="1032" height="1105" alt="respostas_padronizadas" src="https://github.com/user-attachments/assets/0804dfc1-c1fc-45c1-94b1-3d78da6e4308" />
 
 ### Painel do administrador
 
-![Painel do administrador](screenshots/painel-administrador.png)
+<img width="1029" height="805" alt="painel_adm" src="https://github.com/user-attachments/assets/740a3713-a5dd-4473-a917-0ea132ac9511" />
 
 ### Indicadores
 
-![Indicadores de uso](screenshots/indicadores.png)
+<img width="1031" height="1039" alt="indicadores" src="https://github.com/user-attachments/assets/7da852e3-1612-4d9d-9397-4597f3acef44" />
 
 ### Outras telas
 
 | Quem resolve | Taxonomia |
 |---|---|
-| ![Quem resolve](screenshots/quem-resolve.png) | ![Taxonomia](screenshots/taxonomia.png) |
+| <img width="1024" height="640" alt="quem_resolve" src="https://github.com/user-attachments/assets/3ce79215-cf24-4fe8-9f16-7cb43a9f2581" /> | <img width="1030" height="710" alt="taxonomia" src="https://github.com/user-attachments/assets/64e381e2-e172-4fba-ab78-c153f9c156e4" /> |
 
 | Controle de acesso | Revisão e validação |
 |---|---|
-| ![Controle de acesso](screenshots/controle-de-acesso.png) | ![Revisão e validação](screenshots/revisao-validacao.png) |
+| <img width="1032" height="1036" alt="controle-de-acesso" src="https://github.com/user-attachments/assets/3a56f600-c942-4144-a555-12997eccbb98" /> | <img width="1033" height="775" alt="revisão_e_validação" src="https://github.com/user-attachments/assets/b7944abe-c6d8-4da2-a953-4b5c9c626520" /> |
 
 | Conhecimento tácito | Ideias e melhorias |
 |---|---|
-| ![Conhecimento tácito](screenshots/conhecimento-tacito.png) | ![Ideias e melhorias](screenshots/ideias.png) |
+| <img width="1033" height="666" alt="conhecimento_tácito" src="https://github.com/user-attachments/assets/cca5bb78-1c4b-4687-a314-2c9e0d6b3686" /> | <img width="1034" height="563" alt="ideias" src="https://github.com/user-attachments/assets/4831cde3-f6b6-4316-b718-6fd84e69219d" /> |
 
 | Meus favoritos | Arquivados |
 |---|---|
-| ![Meus favoritos](screenshots/favoritos.png) | ![Arquivados](screenshots/arquivados.png) |
+| <img width="1032" height="810" alt="favoritos" src="https://github.com/user-attachments/assets/8220eb88-ff6d-4fe8-90ce-2f39642992ba" /> | <img width="1029" height="560" alt="arquivados" src="https://github.com/user-attachments/assets/573a7a11-3558-44b9-8a3c-de21660a1c17" /> |
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -153,7 +153,7 @@ O perfil é definido pela lista **Perfis**. Quem não está cadastrado entra com
 - [x] Login com Microsoft Entra ID
 - [x] Integração com as listas do SharePoint
 - [x] Backup, restauração e exportação
-- [ ] Liberação final de permissões junto à equipe de TI
+- [x] Liberação final de permissões junto à equipe de TI
 - [ ] Publicação para toda a equipe de suporte
 
 ## ⚠️ Observação
